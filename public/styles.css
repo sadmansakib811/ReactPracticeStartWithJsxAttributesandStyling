@@ -1,0 +1,33 @@
+body {
+  align-items: center;
+}
+.coverpic {
+  width: 100%;
+  padding: 10px;
+  align-items: center;
+}
+.img1,
+.img2,
+.img3 {
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+  align-items: center;
+}
+
+.heading {
+  color: red;
+  text-align: center;
+  background-image: 100%;
+}
+
+ul {
+  color: royalblue;
+  display: flex;
+  text-align: center;
+}
+li {
+  list-style-type: none;
+  padding: 10px;
+  text-align: center;
+}
