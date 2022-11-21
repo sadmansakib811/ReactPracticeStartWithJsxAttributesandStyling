@@ -1,2 +1,2 @@
 # ReactPracticeStartWithJsxAttributesandStyling
-Created with CodeSandbox
+Jsx Attribute Styling and practice for begainning
